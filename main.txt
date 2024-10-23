@@ -2,10 +2,7 @@ costante_numero_uno = 1;
 
 def main() => runApp();
 
-<<<<<<< HEAD
 def init(){
     return function();
 };
-=======
->>>>>>> custom_app_bar
 
