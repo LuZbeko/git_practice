@@ -2,3 +2,7 @@ costante_numero_uno = 1;
 
 def main() => runApp();
 
+def init(){
+    return function();
+};
+
