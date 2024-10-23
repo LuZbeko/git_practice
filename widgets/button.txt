@@ -1,0 +1,5 @@
+Class Button (){
+    title
+    color
+    function
+};
